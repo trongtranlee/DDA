@@ -1,6 +1,6 @@
 package eightqueenschallenge;
 
-public class EightQueensChallengeTest {
+public class EightQueensChallenge2 {
 	private static final int BOARD_SIZE = 8;
 	public static void main(String[] args) {
 		long startTime = System.nanoTime();
